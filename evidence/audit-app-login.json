@@ -1,0 +1,121 @@
+{
+ "lang": "en",
+ "title": "Penpot | Full-stack design",
+ "metaDescription": "Penpot is the open-source design platform for teams that build digital products at scale.",
+ "viewport": {
+  "innerWidth": 1440,
+  "innerHeight": 900,
+  "scrollHeight": 900,
+  "dpr": 2
+ },
+ "headings": {
+  "h1Count": 2,
+  "outline": [
+   {
+    "level": 1,
+    "text": ""
+   },
+   {
+    "level": 1,
+    "text": "Log into my account"
+   }
+  ],
+  "skips": []
+ },
+ "landmarks": {
+  "main": 1
+ },
+ "skipLink": false,
+ "images": {
+  "total": 1,
+  "missingAlt": 1,
+  "decorative": 0,
+  "withAlt": 0
+ },
+ "iframes": {
+  "total": 1,
+  "withoutTitle": 1,
+  "sources": [
+   "https://www.googletagmanager.com/ns.html?id=GTM-KVPFPMP7"
+  ]
+ },
+ "controls": {
+  "total": 8,
+  "unnamed": 0,
+  "under24": 2,
+  "under44": 7
+ },
+ "contrast": {
+  "sampled": 6,
+  "failures": 0,
+  "worst": []
+ },
+ "design": {
+  "fonts": [
+   [
+    "worksans, vazirmatn, sans-serif",
+    1685
+   ],
+   [
+    "\"Noto Sans JP\"",
+    31
+   ],
+   [
+    "sans-serif",
+    9
+   ]
+  ],
+  "fontSizes": [
+   [
+    "16px",
+    1702
+   ],
+   [
+    "14px",
+    14
+   ],
+   [
+    "24px",
+    5
+   ],
+   [
+    "12px",
+    4
+   ]
+  ],
+  "backgroundColours": [
+   [
+    "rgb(33, 36, 38)",
+    4
+   ],
+   [
+    "rgb(24, 24, 26)",
+    3
+   ],
+   [
+    "rgb(46, 52, 52)",
+    1
+   ]
+  ],
+  "radii": [
+   [
+    "8px",
+    5
+   ]
+  ],
+  "bodyBg": "rgb(24, 24, 26)",
+  "bodyFont": "worksans, vazirmatn, sans-serif"
+ },
+ "motion": {
+  "reducedMotionRules": 0,
+  "autoplayVideos": 0,
+  "animatedElements": 0
+ },
+ "layout": {
+  "mainWidth": 1440,
+  "maxWidth": "none",
+  "padding": "32px",
+  "horizontalOverflow": false,
+  "scrollWidth": 1440
+ }
+}

@@ -1,0 +1,294 @@
+{
+ "lang": "en",
+ "title": "Penpot Pricing | From Professional to Enterprise Plans",
+ "metaDescription": "Penpot transparent pricing offers everything organizations need to design and collaborate free from limits and paywalls.",
+ "viewport": {
+  "innerWidth": 1440,
+  "innerHeight": 900,
+  "scrollHeight": 6008,
+  "dpr": 2
+ },
+ "headings": {
+  "h1Count": 1,
+  "outline": [
+   {
+    "level": 1,
+    "text": "Transparent pricing"
+   },
+   {
+    "level": 2,
+    "text": "The same core features are included with every plan"
+   },
+   {
+    "level": 2,
+    "text": "Penpot Pricing FAQs"
+   },
+   {
+    "level": 3,
+    "text": "Capabilities"
+   },
+   {
+    "level": 3,
+    "text": "Technical & deployment"
+   },
+   {
+    "level": 3,
+    "text": "Business & pricing"
+   },
+   {
+    "level": 3,
+    "text": "Trust & continuity"
+   },
+   {
+    "level": 2,
+    "text": "They love Penpot"
+   },
+   {
+    "level": 2,
+    "text": "Stay in the loop"
+   },
+   {
+    "level": 2,
+    "text": "Product"
+   },
+   {
+    "level": 2,
+    "text": "Company"
+   },
+   {
+    "level": 2,
+    "text": "Resources"
+   },
+   {
+    "level": 2,
+    "text": "For Businesses"
+   },
+   {
+    "level": 4,
+    "text": "Resources"
+   },
+   {
+    "level": 4,
+    "text": "For Business"
+   },
+   {
+    "level": 4,
+    "text": "Company"
+   },
+   {
+    "level": 2,
+    "text": "Use Cases"
+   },
+   {
+    "level": 2,
+    "text": "Key Features"
+   },
+   {
+    "level": 2,
+    "text": "Legal"
+   }
+  ],
+  "skips": [
+   "2->4 @ Resources"
+  ]
+ },
+ "landmarks": {
+  "main": 1,
+  "header": 1,
+  "nav": 1,
+  "footer": 1
+ },
+ "skipLink": false,
+ "images": {
+  "total": 56,
+  "missingAlt": 0,
+  "decorative": 39,
+  "withAlt": 17
+ },
+ "iframes": {
+  "total": 1,
+  "withoutTitle": 1,
+  "sources": [
+   "https://www.googletagmanager.com/ns.html?id=GTM-KVPFPMP7"
+  ]
+ },
+ "controls": {
+  "total": 139,
+  "unnamed": 7,
+  "under24": 12,
+  "under44": 56
+ },
+ "contrast": {
+  "sampled": 78,
+  "failures": 0,
+  "worst": []
+ },
+ "design": {
+  "fonts": [
+   [
+    "\"Work Sans\", sans-serif",
+    905
+   ],
+   [
+    "\"Work Sans\"",
+    396
+   ],
+   [
+    "\"Noto Sans JP\"",
+    78
+   ],
+   [
+    "\"Work Sans\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+    37
+   ]
+  ],
+  "fontSizes": [
+   [
+    "16px",
+    1280
+   ],
+   [
+    "14px",
+    50
+   ],
+   [
+    "19.2px",
+    36
+   ],
+   [
+    "18px",
+    20
+   ],
+   [
+    "20px",
+    10
+   ],
+   [
+    "52px",
+    4
+   ],
+   [
+    "54px",
+    4
+   ],
+   [
+    "13.3333px",
+    4
+   ],
+   [
+    "48px",
+    3
+   ],
+   [
+    "24px",
+    3
+   ],
+   [
+    "72px",
+    1
+   ],
+   [
+    "12px",
+    1
+   ]
+  ],
+  "backgroundColours": [
+   [
+    "rgb(255, 255, 255)",
+    22
+   ],
+   [
+    "rgb(250, 250, 250)",
+    17
+   ],
+   [
+    "rgb(20, 206, 202)",
+    9
+   ],
+   [
+    "rgba(255, 255, 255, 0)",
+    3
+   ],
+   [
+    "rgb(22, 119, 255)",
+    3
+   ],
+   [
+    "rgb(245, 248, 251)",
+    2
+   ],
+   [
+    "rgb(255, 140, 244)",
+    2
+   ],
+   [
+    "rgb(200, 162, 255)",
+    2
+   ],
+   [
+    "rgb(221, 227, 233)",
+    1
+   ],
+   [
+    "rgb(47, 34, 108)",
+    1
+   ],
+   [
+    "rgb(21, 16, 53)",
+    1
+   ],
+   [
+    "rgb(242, 58, 229)",
+    1
+   ]
+  ],
+  "radii": [
+   [
+    "8px",
+    37
+   ],
+   [
+    "30px",
+    29
+   ],
+   [
+    "3px",
+    21
+   ],
+   [
+    "4px",
+    8
+   ],
+   [
+    "10px",
+    6
+   ],
+   [
+    "20px",
+    5
+   ],
+   [
+    "6px",
+    4
+   ],
+   [
+    "15px",
+    3
+   ]
+  ],
+  "bodyBg": "rgb(245, 248, 251)",
+  "bodyFont": "\"Work Sans\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+ },
+ "motion": {
+  "reducedMotionRules": 0,
+  "autoplayVideos": 0,
+  "animatedElements": 1
+ },
+ "layout": {
+  "mainWidth": 1440,
+  "maxWidth": "none",
+  "padding": "0px",
+  "horizontalOverflow": false,
+  "scrollWidth": 1440
+ }
+}

@@ -1,0 +1,290 @@
+{
+ "lang": "en",
+ "title": "Penpot: Design and Code Features to collaborate at scale.",
+ "metaDescription": "Designers and developers can now finally work in unison to build beautifully designed software experiences that can truly scale up. ",
+ "viewport": {
+  "innerWidth": 1440,
+  "innerHeight": 900,
+  "scrollHeight": 6027,
+  "dpr": 2
+ },
+ "headings": {
+  "h1Count": 1,
+  "outline": [
+   {
+    "level": 1,
+    "text": "All the features Product teams need to design and build together"
+   },
+   {
+    "level": 2,
+    "text": "Design and prototyping"
+   },
+   {
+    "level": 2,
+    "text": "Get started"
+   },
+   {
+    "level": 3,
+    "text": "Help center"
+   },
+   {
+    "level": 3,
+    "text": "Learning center"
+   },
+   {
+    "level": 3,
+    "text": "Libraries, Templates & Plugins"
+   },
+   {
+    "level": 3,
+    "text": "Community forum"
+   },
+   {
+    "level": 3,
+    "text": "Youtube channel"
+   },
+   {
+    "level": 3,
+    "text": "Blog"
+   },
+   {
+    "level": 3,
+    "text": "Ambassador program"
+   },
+   {
+    "level": 3,
+    "text": "Support"
+   },
+   {
+    "level": 2,
+    "text": "Stay in the loop"
+   },
+   {
+    "level": 2,
+    "text": "Product"
+   },
+   {
+    "level": 2,
+    "text": "Company"
+   },
+   {
+    "level": 2,
+    "text": "Resources"
+   },
+   {
+    "level": 2,
+    "text": "For Businesses"
+   },
+   {
+    "level": 4,
+    "text": "Resources"
+   },
+   {
+    "level": 4,
+    "text": "For Business"
+   },
+   {
+    "level": 4,
+    "text": "Company"
+   },
+   {
+    "level": 2,
+    "text": "Use Cases"
+   },
+   {
+    "level": 2,
+    "text": "Key Features"
+   },
+   {
+    "level": 2,
+    "text": "Legal"
+   }
+  ],
+  "skips": [
+   "2->4 @ Resources"
+  ]
+ },
+ "landmarks": {
+  "main": 2,
+  "header": 1,
+  "nav": 1,
+  "footer": 1
+ },
+ "skipLink": false,
+ "images": {
+  "total": 29,
+  "missingAlt": 0,
+  "decorative": 26,
+  "withAlt": 3
+ },
+ "iframes": {
+  "total": 1,
+  "withoutTitle": 1,
+  "sources": [
+   "https://www.googletagmanager.com/ns.html?id=GTM-KVPFPMP7"
+  ]
+ },
+ "controls": {
+  "total": 170,
+  "unnamed": 13,
+  "under24": 13,
+  "under44": 93
+ },
+ "contrast": {
+  "sampled": 97,
+  "failures": 0,
+  "worst": []
+ },
+ "design": {
+  "fonts": [
+   [
+    "\"Work Sans\", sans-serif",
+    567
+   ],
+   [
+    "\"Work Sans\"",
+    213
+   ],
+   [
+    "\"Noto Sans JP\"",
+    72
+   ],
+   [
+    "\"Work Sans\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+    32
+   ]
+  ],
+  "fontSizes": [
+   [
+    "16px",
+    827
+   ],
+   [
+    "20px",
+    25
+   ],
+   [
+    "18px",
+    10
+   ],
+   [
+    "24px",
+    6
+   ],
+   [
+    "12px",
+    4
+   ],
+   [
+    "13.3333px",
+    4
+   ],
+   [
+    "72px",
+    2
+   ],
+   [
+    "48px",
+    2
+   ],
+   [
+    "54px",
+    2
+   ],
+   [
+    "32px",
+    1
+   ],
+   [
+    "14px",
+    1
+   ]
+  ],
+  "backgroundColours": [
+   [
+    "rgb(250, 250, 250)",
+    15
+   ],
+   [
+    "rgb(255, 255, 255)",
+    5
+   ],
+   [
+    "rgb(20, 206, 202)",
+    4
+   ],
+   [
+    "rgb(245, 248, 251)",
+    3
+   ],
+   [
+    "rgb(22, 119, 255)",
+    3
+   ],
+   [
+    "rgba(255, 255, 255, 0)",
+    2
+   ],
+   [
+    "rgb(221, 227, 233)",
+    1
+   ],
+   [
+    "rgb(21, 16, 53)",
+    1
+   ],
+   [
+    "rgb(242, 58, 229)",
+    1
+   ]
+  ],
+  "radii": [
+   [
+    "3px",
+    21
+   ],
+   [
+    "8px",
+    15
+   ],
+   [
+    "20px",
+    8
+   ],
+   [
+    "20px 20px 0px 0px",
+    8
+   ],
+   [
+    "4px",
+    8
+   ],
+   [
+    "10px",
+    4
+   ],
+   [
+    "6px",
+    4
+   ],
+   [
+    "50px",
+    1
+   ]
+  ],
+  "bodyBg": "rgb(245, 248, 251)",
+  "bodyFont": "\"Work Sans\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif"
+ },
+ "motion": {
+  "reducedMotionRules": 0,
+  "autoplayVideos": 0,
+  "animatedElements": 0
+ },
+ "layout": {
+  "mainWidth": 0,
+  "maxWidth": "none",
+  "padding": "0px",
+  "horizontalOverflow": false,
+  "scrollWidth": 1440
+ }
+}

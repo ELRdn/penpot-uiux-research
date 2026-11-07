@@ -1,0 +1,20 @@
+CC BY 4.0
+
+The documents in this repository — REPORT.md, README.md, and the contents of
+evidence/ — are licensed under the Creative Commons Attribution 4.0
+International License.
+
+You are free to share and adapt the material for any purpose, provided you give
+appropriate credit, link to the license, and indicate if changes were made.
+
+Full text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Excluded from this license:
+
+- Screenshots of the Penpot interface. Rights remain with Kaleidos
+  (https://kaleidos.net). They are reproduced here for criticism, review and
+  analysis.
+- Design token values quoted from the Penpot source repository, licensed under
+  the Mozilla Public License 2.0 (https://www.mozilla.org/MPL/2.0/).
+- Quoted product copy and documentation from penpot.app and help.penpot.app,
+  reproduced for the same purpose.

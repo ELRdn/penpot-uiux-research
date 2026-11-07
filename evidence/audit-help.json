@@ -1,0 +1,184 @@
+{
+ "lang": "en",
+ "title": "Help center",
+ "metaDescription": "Find user guides, technical documentation, plugin info, FAQs, and contributing guidelines in Penpot's help center. Join the open-source community!",
+ "viewport": {
+  "innerWidth": 1440,
+  "innerHeight": 900,
+  "scrollHeight": 3125,
+  "dpr": 2
+ },
+ "headings": {
+  "h1Count": 1,
+  "outline": [
+   {
+    "level": 1,
+    "text": "Help center"
+   },
+   {
+    "level": 2,
+    "text": "User guide →"
+   },
+   {
+    "level": 2,
+    "text": "Technical guide →"
+   },
+   {
+    "level": 2,
+    "text": "MCP server →"
+   },
+   {
+    "level": 2,
+    "text": "Plugins →"
+   },
+   {
+    "level": 2,
+    "text": "Contributing guide →"
+   },
+   {
+    "level": 2,
+    "text": "FAQs →"
+   },
+   {
+    "level": 2,
+    "text": "Collaborate at Github →"
+   },
+   {
+    "level": 2,
+    "text": "Contact us"
+   }
+  ],
+  "skips": []
+ },
+ "landmarks": {
+  "header": 1,
+  "main": 1,
+  "footer": 1
+ },
+ "skipLink": false,
+ "images": {
+  "total": 10,
+  "missingAlt": 0,
+  "decorative": 0,
+  "withAlt": 10
+ },
+ "iframes": {
+  "total": 1,
+  "withoutTitle": 1,
+  "sources": [
+   "https://www.googletagmanager.com/ns.html?id=GTM-KVPFPMP7"
+  ]
+ },
+ "controls": {
+  "total": 79,
+  "unnamed": 2,
+  "under24": 65,
+  "under44": 70
+ },
+ "contrast": {
+  "sampled": 84,
+  "failures": 1,
+  "worst": [
+   {
+    "ratio": 4.01,
+    "size": 16,
+    "weight": 400,
+    "text": "Kaleidos © 2026  |  Made with LOVE and O",
+    "color": "rgb(123, 125, 133)",
+    "bg": "rgb(31,31,31)"
+   }
+  ]
+ },
+ "design": {
+  "fonts": [
+   [
+    "\"Work Sans\", system-ui, sans-serif",
+    278
+   ],
+   [
+    "Arial",
+    1
+   ]
+  ],
+  "fontSizes": [
+   [
+    "16px",
+    262
+   ],
+   [
+    "32px",
+    7
+   ],
+   [
+    "12px",
+    6
+   ],
+   [
+    "22.4px",
+    1
+   ],
+   [
+    "13.3333px",
+    1
+   ],
+   [
+    "72px",
+    1
+   ],
+   [
+    "48px",
+    1
+   ]
+  ],
+  "backgroundColours": [
+   [
+    "rgb(255, 255, 255)",
+    12
+   ],
+   [
+    "rgb(31, 31, 31)",
+    2
+   ],
+   [
+    "rgb(49, 239, 184)",
+    1
+   ],
+   [
+    "rgba(255, 255, 255, 0.85)",
+    1
+   ],
+   [
+    "rgb(235, 240, 244)",
+    1
+   ]
+  ],
+  "radii": [
+   [
+    "8px",
+    8
+   ],
+   [
+    "3px 0px 0px 3px",
+    1
+   ],
+   [
+    "0px 3px 3px 0px",
+    1
+   ]
+  ],
+  "bodyBg": "rgb(255, 255, 255)",
+  "bodyFont": "\"Work Sans\", system-ui, sans-serif"
+ },
+ "motion": {
+  "reducedMotionRules": 0,
+  "autoplayVideos": 0,
+  "animatedElements": 0
+ },
+ "layout": {
+  "mainWidth": 1440,
+  "maxWidth": "none",
+  "padding": "16px",
+  "horizontalOverflow": false,
+  "scrollWidth": 1440
+ }
+}
